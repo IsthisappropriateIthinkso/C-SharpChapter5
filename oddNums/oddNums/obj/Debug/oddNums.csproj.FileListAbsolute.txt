@@ -1,0 +1,7 @@
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\bin\Debug\oddNums.exe.config
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\bin\Debug\oddNums.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\bin\Debug\oddNums.pdb
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\obj\Debug\oddNums.csprojAssemblyReference.cache
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\obj\Debug\oddNums.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\obj\Debug\oddNums.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\CSharpChapter 5\oddNums\oddNums\obj\Debug\oddNums.pdb
